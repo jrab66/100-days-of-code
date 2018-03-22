@@ -18,4 +18,4 @@
 
 **Today Progress**:
 
-**css bootstrap + starting javascript **
+**css bootstrap + starting javascript basics**
